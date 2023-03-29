@@ -3,7 +3,7 @@
 
 `last updated: Wed Mar 29 12:47 PM CEST 2023`
 
-Hi, I’m Moritz! (he/him/anythingyouwant)
+Hi, I’m Moritz! (he/him)
 
 I am a 16yo programmer who lives in germany and enjoys programming at a low level.
 
