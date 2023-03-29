@@ -5,9 +5,10 @@
 
 Hi, I’m Moritz! (he/him/anythingyouwant)
 
-I am a 16yo programmer who lives in germany and enjoys programming at a low level
+I am a 16yo programmer who lives in germany and enjoys programming at a low level.
+
 I mostly like to code game-engines and programming languages but unfortunately I
-lost a lot of stuff because my computer kinda died and I wasn't using github then.
+lost a lot of stuff because my computer kinda died and I wasn't keeping backups.
 
 Currently I am enjoying in Rust, because Rust 🦀
 I wanna get into Go though, so google can spy on me some more
