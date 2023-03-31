@@ -1,11 +1,9 @@
 
 # Hi
 
-`last updated: Wed Mar 29 12:47 PM CEST 2023`
-
 Hi, I’m Moritz! (he/him)
 
-I am a 16yo programmer who lives in germany and enjoys programming at a low level.
+I am a 16yo programmer who lives in germany and enjoys programming.
 
 I mostly like to code game-engines and programming languages but unfortunately I
 lost a lot of stuff because my computer kinda died and I wasn't keeping backups.
@@ -20,6 +18,6 @@ Feel free to message me whenever you want, I like meeting new people
 
 # Projects
 
-If you wanna find anything cool on my profile, you should check out
-this repo: https://github.com/foxcirc/rough
-Allthough it isn't really usable right now.
+If you wanna find anything cool on my profile, you should check out my pinned repos.
+
+`last updated: Fri Mar 31 12:54:53 PM CEST 2023`
