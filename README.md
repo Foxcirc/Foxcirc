@@ -11,8 +11,11 @@ lost a lot of stuff because my computer kinda died and I wasn't keeping backups.
 Currently I am enjoying Rust, because Rust 🦀
 I wanna get into Go though, so google can spy on me some more
 
-I use Artix linux btw, so I can feel superior to Arch users,
-the only problem is that discord doesn't work and I have absolutely no clue why.
+I use Artix btw,
+wanna see my c u s t o m i z e d setup?
+C'mon, SSH in ;)
+
+(Why is my discord not working)
 
 Feel free to message me whenever you want, I like meeting new people
 
@@ -20,4 +23,4 @@ Feel free to message me whenever you want, I like meeting new people
 
 If you wanna find anything cool on my profile, you should check out my pinned repos.
 
-`last updated: Fri Mar 31 12:54:53 PM CEST 2023`
+`last updated: Thu Apr 6 03:36:05 PM CEST 2023`
