@@ -9,7 +9,6 @@ Hi, I’m Moritz! 👋
 - No JS 🚫
 - No Windows 🚫 (niche operating system for gaming)
 - I like gaming though ⛏🧱
-- Can't get anything done ;(
 - Not a good commmit message author
 
 ### My Stack
