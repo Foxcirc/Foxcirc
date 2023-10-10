@@ -19,7 +19,7 @@ Hi, I’m Moritz! 👋
 - And I'd like to learn Go and Zig 🦦
 - (but I just can't stop using Rust please help me)
 
-Feel free to message me whenever you want, I like meeting new people
+Feel free to message me whenever you want, I like meeting new people.
 If you wanna find anything cool on my profile, you should check out my pinned repos.
 
 Oh yeah, I almost forgot to tell you... I use Artix Linux btw
