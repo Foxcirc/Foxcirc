@@ -10,7 +10,7 @@ Hi, I’m Moritz! 👋
 - No Windows 🚫 (niche operating system for gaming)
 - I like gaming though ⛏🧱
 - Can't get anything done ;(
-- Don't look at my commit messages
+- Not a good commmit message author
 
 ### My Stack
 - Rust 🦀
