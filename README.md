@@ -4,23 +4,21 @@
 Hi, I’m Moritz! 👋
 
 ### Personal info
-- I am 16 yo
-- Germany, Bremen 🇩🇪
-- No JS 🚫
-- No Windows 🚫 (niche operating system for gaming)
+- I live Germany 🇩🇪
+- Not using Windows 🚫 (niche operating system for gamers)
 - I like gaming though ⛏🧱
 - Not a good commmit message author
 
 ### My Stack
 - Rust 🦀
 - Python 🐍
+- Go
 - C
-- And I'd like to learn Go and Zig 🦦
-- (but I just can't stop using Rust please help me)
+- And I'd like to learn Zig 🦦 and Ocaml 🐪
 
-Feel free to message me whenever you want, I like meeting new people.
+Feel free to message me!
 If you wanna find anything cool on my profile, you should check out my pinned repos.
 
 Oh yeah, I almost forgot to tell you... I use Artix Linux btw
 
-`last updated: Tue Oct 10 12:08:09 PM CEST 2023`
+`last updated: Sun Dec 10 12:25:39 PM CET 2023`
